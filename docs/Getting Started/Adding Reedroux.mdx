@@ -1,0 +1,86 @@
+---
+id: adding_mewwme
+description: Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.
+title: Adding - Reedroux
+slug: /adding-reedroux
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import {Button} from '../../Buttons/button';
+import Image from '@theme/IdealImage';
+
+Ready to start listening with Reedroux? Well it's super easy so let's get into it!
+
+## Invite me!
+
+---
+
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      borderRadius: '2px',
+      color: color,
+      padding: '0.2rem',
+    }}
+  >
+    {children}
+  </span>
+);
+
+<table>
+  <tr>
+    <th>
+      <Button
+        onClick={() => window.open('https://reedroux.biz/invite', '_blank')}
+        buttonStyle="btn--acoustic--1"
+      >
+        Invite{' '}
+      </Button>
+    </th>
+    <td>
+      <ul>
+        <h2>
+          <Highlight color="#5865F2">👋 Reedroux</Highlight> (
+          <code>Reedroux-Bot</code>)
+        </h2>
+        <li>
+          Prefix: <code>-</code>
+        </li>
+        <li>
+          <strong>You should probably click the big invite button ;)</strong>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## Authorization
+
+---
+
+### Step 1
+
+Once you've decided to use the best **companion** on Discord, then you can continue to invite it to your favorite server!
+
+<Image img={require('../../static/img/docs/adding/oauth.png')} width="90%" height="90%" />
+
+Tap or click the `Select a server` button. A pop-up should appear that will let you select where you'd like to add Reedroux.
+
+### Step two
+
+Once you've selected the server that you'd like to add Reedroux to, you can press the `Continue` button on the bottom right of the menu.
+
+You should now see something similar to this:
+
+<Image img={require('../../static/img/docs/adding/oauth-deux.png')} width="90%" height="90%" />
+
+:::caution Note
+If you want to disable `Administrator` permission from Reedroux, it will not work properly! You will still be able to listen to basic music features but some things won't work.
+:::
+
+### Final Step
+
+Once you press the `Authorize` button and complete the Captcha, you should be redirected to our thank-you page. In addition, you'll also see a message like the one below in your Discord server. **Spectacular!**
+
+Now let's get the party started by [playing some songs](/play-song)!
