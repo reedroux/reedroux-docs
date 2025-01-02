@@ -1,0 +1,32 @@
+{
+  "unversionedId": "Introduction/features",
+  "id": "Introduction/features",
+  "title": "Features - Reedroux",
+  "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+  "source": "@site/docs/Introduction/Features.mdx",
+  "sourceDirName": "Introduction",
+  "slug": "/features",
+  "permalink": "/features",
+  "draft": false,
+  "editUrl": "https://github.com/reedroux/docs/edit/main/docs/Introduction/Features.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "features",
+    "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+    "title": "Features - Reedroux",
+    "slug": "/features"
+  },
+  "sidebar": "sidebars",
+  "previous": {
+    "title": "Getting Started - Reedroux",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Adding - Reedroux",
+    "permalink": "/adding-reedroux"
+  }
+}

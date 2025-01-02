@@ -1,0 +1,32 @@
+{
+  "unversionedId": "Getting Started/adding_mewwme",
+  "id": "Getting Started/adding_mewwme",
+  "title": "Adding - Reedroux",
+  "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+  "source": "@site/docs/Getting Started/Adding Reedroux.mdx",
+  "sourceDirName": "Getting Started",
+  "slug": "/adding-reedroux",
+  "permalink": "/adding-reedroux",
+  "draft": false,
+  "editUrl": "https://github.com/reedroux/docs/edit/main/docs/Getting Started/Adding Reedroux.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "adding_mewwme",
+    "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+    "title": "Adding - Reedroux",
+    "slug": "/adding-reedroux"
+  },
+  "sidebar": "sidebars",
+  "previous": {
+    "title": "Features - Reedroux",
+    "permalink": "/features"
+  },
+  "next": {
+    "title": "Playing a Song - Reedroux",
+    "permalink": "/play-song"
+  }
+}

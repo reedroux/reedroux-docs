@@ -1,0 +1,32 @@
+{
+  "unversionedId": "Getting Started/play_song",
+  "id": "Getting Started/play_song",
+  "title": "Playing a Song - Reedroux",
+  "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+  "source": "@site/docs/Getting Started/Playing a song.mdx",
+  "sourceDirName": "Getting Started",
+  "slug": "/play-song",
+  "permalink": "/play-song",
+  "draft": false,
+  "editUrl": "https://github.com/reedroux/docs/edit/main/docs/Getting Started/Playing a song.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "play_song",
+    "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+    "title": "Playing a Song - Reedroux",
+    "slug": "/play-song"
+  },
+  "sidebar": "sidebars",
+  "previous": {
+    "title": "Adding - Reedroux",
+    "permalink": "/adding-reedroux"
+  },
+  "next": {
+    "title": "Commands",
+    "permalink": "/commands"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "permalink": "/blog/2022/01/08/reedroux",
+  "editUrl": "https://github.com/reedroux/docs/blog/2022-01-08-reedroux.mdx",
+  "source": "@site/blog/2022-01-08-reedroux.mdx",
+  "title": "Heyy, it's me, Reedroux! 😊",
+  "description": "Heyy, welcome to the world of Reedroux, your new favorite Discord music bot!",
+  "date": "2022-01-08T00:00:00.000Z",
+  "formattedDate": "January 8, 2022",
+  "tags": [
+    {
+      "label": "new",
+      "permalink": "/blog/tags/new"
+    },
+    {
+      "label": "first",
+      "permalink": "/blog/tags/first"
+    },
+    {
+      "label": "music",
+      "permalink": "/blog/tags/music"
+    },
+    {
+      "label": "Reedroux",
+      "permalink": "/blog/tags/reedroux"
+    }
+  ],
+  "readingTime": 0.64,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "towdawg",
+      "title": "Community and Support Associate",
+      "url": "https://reedroux.biz",
+      "imageURL": "https://twodawg.xyz/favicon.ico",
+      "key": "towdawg"
+    }
+  ],
+  "frontMatter": {
+    "title": "Heyy, it's me, Reedroux! 😊",
+    "authors": "towdawg",
+    "tags": [
+      "new",
+      "first",
+      "music",
+      "Reedroux"
+    ],
+    "description": "Heyy, welcome to the world of Reedroux, your new favorite Discord music bot!",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "Welcome to Reedroux's",
+    "permalink": "/blog/2022/01/10/welcome-to-reedroux"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "unversionedId": "Advanced/favorites",
+  "id": "Advanced/favorites",
+  "title": "Favorites - Reedroux",
+  "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+  "source": "@site/docs/Advanced/Favorites.mdx",
+  "sourceDirName": "Advanced",
+  "slug": "/favorites",
+  "permalink": "/favorites",
+  "draft": false,
+  "editUrl": "https://github.com/reedroux/docs/edit/main/docs/Advanced/Favorites.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "favorites",
+    "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+    "title": "Favorites - Reedroux",
+    "slug": "/favorites"
+  },
+  "sidebar": "sidebars",
+  "previous": {
+    "title": "Custom Playlists - Reedroux",
+    "permalink": "/playlists"
+  },
+  "next": {
+    "title": "Starting Dashboard",
+    "permalink": "/starting-dashboard"
+  }
+}

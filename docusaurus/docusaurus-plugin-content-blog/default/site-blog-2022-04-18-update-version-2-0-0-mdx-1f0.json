@@ -1,0 +1,53 @@
+{
+  "permalink": "/blog/2022/04/18/update-version-2-0-0",
+  "editUrl": "https://github.com/reedroux/docs/blog/2022-04-18-update-version-2-0-0.mdx",
+  "source": "@site/blog/2022-04-18-update-version-2-0-0.mdx",
+  "title": "Reedroux's V.2.0.0",
+  "description": "Welcome to Reedroux's V.2.0.0! This major update brings several enhancements and fixes for a smoother music experience.",
+  "date": "2022-04-18T00:00:00.000Z",
+  "formattedDate": "April 18, 2022",
+  "tags": [
+    {
+      "label": "Reedroux",
+      "permalink": "/blog/tags/reedroux"
+    },
+    {
+      "label": "update",
+      "permalink": "/blog/tags/update"
+    },
+    {
+      "label": "v.2.0.0",
+      "permalink": "/blog/tags/v-2-0-0"
+    }
+  ],
+  "readingTime": 0.935,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "towdawg",
+      "title": "Community and Support Associate",
+      "url": "https://reedroux.biz",
+      "imageURL": "https://twodawg.xyz/favicon.ico",
+      "key": "towdawg"
+    }
+  ],
+  "frontMatter": {
+    "title": "Reedroux's V.2.0.0",
+    "authors": "towdawg",
+    "tags": [
+      "Reedroux",
+      "update",
+      "v.2.0.0"
+    ],
+    "description": "Welcome to Reedroux's V.2.0.0! This major update brings several enhancements and fixes for a smoother music experience.",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "Reedroux's V.3.0.0",
+    "permalink": "/blog/2022/08/07/update-version-3-0-0"
+  },
+  "nextItem": {
+    "title": "Welcome to Reedroux's",
+    "permalink": "/blog/2022/01/10/welcome-to-reedroux"
+  }
+}

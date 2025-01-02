@@ -1,0 +1,25 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Reedroux's V.3.5.0",
+      "permalink": "/blog/2023/07/25/update-version-3-5-0"
+    },
+    {
+      "title": "Reedroux's V.3.0.0",
+      "permalink": "/blog/2022/08/07/update-version-3-0-0"
+    },
+    {
+      "title": "Reedroux's V.2.0.0",
+      "permalink": "/blog/2022/04/18/update-version-2-0-0"
+    },
+    {
+      "title": "Welcome to Reedroux's",
+      "permalink": "/blog/2022/01/10/welcome-to-reedroux"
+    },
+    {
+      "title": "Heyy, it's me, Reedroux! 😊",
+      "permalink": "/blog/2022/01/08/reedroux"
+    }
+  ]
+}

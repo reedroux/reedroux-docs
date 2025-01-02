@@ -1,0 +1,32 @@
+{
+  "unversionedId": "Getting Started/commands",
+  "id": "Getting Started/commands",
+  "title": "Commands",
+  "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+  "source": "@site/docs/Getting Started/Commands.mdx",
+  "sourceDirName": "Getting Started",
+  "slug": "/commands",
+  "permalink": "/commands",
+  "draft": false,
+  "editUrl": "https://github.com/reedroux/docs/edit/main/docs/Getting Started/Commands.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "commands",
+    "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+    "title": "Commands",
+    "slug": "/commands"
+  },
+  "sidebar": "sidebars",
+  "previous": {
+    "title": "Playing a Song - Reedroux",
+    "permalink": "/play-song"
+  },
+  "next": {
+    "title": "Frequently Asked Questions - Reedroux",
+    "permalink": "/faq"
+  }
+}

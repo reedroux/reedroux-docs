@@ -1,0 +1,281 @@
+{
+  "blogPosts": [
+    {
+      "id": "/2023/07/25/update-version-3-5-0",
+      "metadata": {
+        "permalink": "/blog/2023/07/25/update-version-3-5-0",
+        "editUrl": "https://github.com/reedroux/docs/blog/2023-07-25-update-version-3-5-0.mdx",
+        "source": "@site/blog/2023-07-25-update-version-3-5-0.mdx",
+        "title": "Reedroux's V.3.5.0",
+        "description": "Introducing Reedroux's V.3.5.0! This update brings significant improvements and optimizations for a better user experience.",
+        "date": "2023-07-25T00:00:00.000Z",
+        "formattedDate": "July 25, 2023",
+        "tags": [
+          {
+            "label": "Reedroux",
+            "permalink": "/blog/tags/reedroux"
+          },
+          {
+            "label": "update",
+            "permalink": "/blog/tags/update"
+          },
+          {
+            "label": "v.3.5.0",
+            "permalink": "/blog/tags/v-3-5-0"
+          }
+        ],
+        "readingTime": 0.985,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "Paul Mcli",
+            "title": "Sr. Systems Administrator",
+            "url": "https://reedroux.biz",
+            "imageURL": "https://twodawg.xyz/paul.png",
+            "key": "paulmcli"
+          }
+        ],
+        "frontMatter": {
+          "title": "Reedroux's V.3.5.0",
+          "authors": "paulmcli",
+          "tags": [
+            "Reedroux",
+            "update",
+            "v.3.5.0"
+          ],
+          "description": "Introducing Reedroux's V.3.5.0! This update brings significant improvements and optimizations for a better user experience.",
+          "hide_table_of_contents": false
+        },
+        "nextItem": {
+          "title": "Reedroux's V.3.0.0",
+          "permalink": "/blog/2022/08/07/update-version-3-0-0"
+        }
+      },
+      "content": "import Image from '@theme/IdealImage';\n\n## Welcome to Reedroux's V.3.5.0!\n\nGreetings, music enthusiasts! 🎶 Reedroux's V.3.5.0 arrives with substantial enhancements and optimizations crafted to enrich your music journey.\n\n### What's New:\n\n- **QuickDB Model Implementation:** Adopted model in QuickDB, splitting into 9 tables for easier maintenance.\n- **Introduction of Shard.ts:** Addition of shard.ts file for initial shard implementation.\n- **Transition to PNPM:** Migrated to the use of PNPM for better package management.\n- **Improved Lavalink Wrapper:** Utilizing better-kazagumo package as a first step toward providing an in-house Lavalink wrapper.\n- **New Installation Script:** Introduced a new installation script for smoother setup.\n- **Developer Debug Mode:** Added debug mode for developers to facilitate debugging.\n- **Type Reduction:** Further reduction of 'any' type for enhanced code consistency.\n- **Player Control Patch:** Applied patch for player control edits.\n\n### Description:\n\nReedroux's V.3.5.0 presents a significant leap, focusing on improvements and optimizations to ensure a more seamless and enjoyable music streaming experience. With an emphasis on database structure, optimizations, and developer tools, this update aims to provide a more robust and efficient platform for music lovers.\n\nJoin us in exploring the advancements in Reedroux's V.3.5.0. Let the rhythm elevate your experience! 🎵✨"
+    },
+    {
+      "id": "/2022/08/07/update-version-3-0-0",
+      "metadata": {
+        "permalink": "/blog/2022/08/07/update-version-3-0-0",
+        "editUrl": "https://github.com/reedroux/docs/blog/2022-08-07-update-version-3-0-0.mdx",
+        "source": "@site/blog/2022-08-07-update-version-3-0-0.mdx",
+        "title": "Reedroux's V.3.0.0",
+        "description": "Introducing Reedroux's V.3.0.0! This substantial update brings an array of new features and improvements to enhance your music experience.",
+        "date": "2022-08-07T00:00:00.000Z",
+        "formattedDate": "August 7, 2022",
+        "tags": [
+          {
+            "label": "Reedroux",
+            "permalink": "/blog/tags/reedroux"
+          },
+          {
+            "label": "update",
+            "permalink": "/blog/tags/update"
+          },
+          {
+            "label": "v.3.0.0",
+            "permalink": "/blog/tags/v-3-0-0"
+          }
+        ],
+        "readingTime": 1.05,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "towdawg",
+            "title": "Community and Support Associate",
+            "url": "https://reedroux.biz",
+            "imageURL": "https://twodawg.xyz/favicon.ico",
+            "key": "towdawg"
+          }
+        ],
+        "frontMatter": {
+          "title": "Reedroux's V.3.0.0",
+          "authors": "towdawg",
+          "tags": [
+            "Reedroux",
+            "update",
+            "v.3.0.0"
+          ],
+          "description": "Introducing Reedroux's V.3.0.0! This substantial update brings an array of new features and improvements to enhance your music experience.",
+          "hide_table_of_contents": false
+        },
+        "prevItem": {
+          "title": "Reedroux's V.3.5.0",
+          "permalink": "/blog/2023/07/25/update-version-3-5-0"
+        },
+        "nextItem": {
+          "title": "Reedroux's V.2.0.0",
+          "permalink": "/blog/2022/04/18/update-version-2-0-0"
+        }
+      },
+      "content": "import Image from '@theme/IdealImage';\n\n## Welcome to Reedroux's V.3.0.0!\n\nWelcome, music lovers! 🎵 Reedroux's V.3.0.0 has arrived with exciting enhancements and features designed to elevate your musical journey.\n\n### What's Included:\n\n- **Musicard for New Player Control Interface:** Introducing musicard, a new and improved player control interface.\n- **100% Embedtify for Enhanced UX/UI:** Complete Embedtify for a seamless and enhanced User Experience/User Interface (UX/UI).\n- **Custom Emoji Integration:** Added custom emojis for a more interactive and engaging UX/UI.\n- **Player Control and Emoji Safe Mode:** Enhanced player control and introduced emoji safe mode for error situations.\n- **Improved AutoComplete Handling:** AutoComplete functionality has been split into a new event for better control.\n- **Karaoke Filter Addition:** Newly added Karaoke filter for specialized audio effects.\n- **Type Reduction:** Reduced usage of 'any' type for improved code consistency.\n- **Delete Message Timeout for Player Control:** Added delete message timeout feature for player control.\n\n### Description:\n\nReedroux's V.3.0.0 signifies a significant advancement, presenting a plethora of new features and enhancements crafted to enrich your music streaming experience. With focus on interface, control, and specialized audio effects, this update aims to deliver an immersive and user-friendly musical environment.\n\nJoin us in exploring the latest features of Reedroux's V.3.0.0. Let the melodies guide you! 🎶✨"
+    },
+    {
+      "id": "/2022/04/18/update-version-2-0-0",
+      "metadata": {
+        "permalink": "/blog/2022/04/18/update-version-2-0-0",
+        "editUrl": "https://github.com/reedroux/docs/blog/2022-04-18-update-version-2-0-0.mdx",
+        "source": "@site/blog/2022-04-18-update-version-2-0-0.mdx",
+        "title": "Reedroux's V.2.0.0",
+        "description": "Welcome to Reedroux's V.2.0.0! This major update brings several enhancements and fixes for a smoother music experience.",
+        "date": "2022-04-18T00:00:00.000Z",
+        "formattedDate": "April 18, 2022",
+        "tags": [
+          {
+            "label": "Reedroux",
+            "permalink": "/blog/tags/reedroux"
+          },
+          {
+            "label": "update",
+            "permalink": "/blog/tags/update"
+          },
+          {
+            "label": "v.2.0.0",
+            "permalink": "/blog/tags/v-2-0-0"
+          }
+        ],
+        "readingTime": 0.935,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "towdawg",
+            "title": "Community and Support Associate",
+            "url": "https://reedroux.biz",
+            "imageURL": "https://twodawg.xyz/favicon.ico",
+            "key": "towdawg"
+          }
+        ],
+        "frontMatter": {
+          "title": "Reedroux's V.2.0.0",
+          "authors": "towdawg",
+          "tags": [
+            "Reedroux",
+            "update",
+            "v.2.0.0"
+          ],
+          "description": "Welcome to Reedroux's V.2.0.0! This major update brings several enhancements and fixes for a smoother music experience.",
+          "hide_table_of_contents": false
+        },
+        "prevItem": {
+          "title": "Reedroux's V.3.0.0",
+          "permalink": "/blog/2022/08/07/update-version-3-0-0"
+        },
+        "nextItem": {
+          "title": "Welcome to Reedroux's",
+          "permalink": "/blog/2022/01/10/welcome-to-reedroux"
+        }
+      },
+      "content": "import Image from '@theme/IdealImage';\n\n## Welcome to Reedroux's V.2.0.0!\n\nWelcome, music enthusiasts! 🎶 Reedroux's V.2.0.0 is here, packed with exciting updates and fixes to elevate your musical journey.\n\n### What's New:\n\n- **Enhanced Lavalink Autofix:** Added reconnectTries and restTimeout for smoother connections.\n- **Version Control with Metadata.yml:** Introduced metadata.yml for versioning control.\n- **Support for Apple:** Expanded support to include Apple devices.\n- **Playlist Playback Issue Fixed:** Resolved the issue where playlists were not playing.\n- **Docker Compose Fix:** Fixed issues related to Docker Compose functionality.\n- **Improved Code Readability:** Reformatted code for better readability and maintenance.\n- **Lavalink Data Load Enhancement:** Improved the loading of Lavalink data.\n- **Integration with Lavalink:** Integrated seamlessly with Lavalink without port issues.\n- **Express-WS Implementation:** Transitioned to the use of express-ws for better performance.\n\n### Description:\n\nReedroux's V.2.0.0 marks a significant milestone, presenting a robust set of fixes and upgrades for a smoother music streaming experience. With a focus on stability, connectivity, and expanded device support, this update aims to provide a seamless music atmosphere.\n\nJoin us in exploring the enhanced features of Reedroux's V.2.0.0. Let the beats begin! 🎵✨"
+    },
+    {
+      "id": "/2022/01/10/welcome-to-reedroux",
+      "metadata": {
+        "permalink": "/blog/2022/01/10/welcome-to-reedroux",
+        "editUrl": "https://github.com/reedroux/docs/blog/2022-01-10-welcome-to-reedroux.mdx",
+        "source": "@site/blog/2022-01-10-welcome-to-reedroux.mdx",
+        "title": "Welcome to Reedroux's",
+        "description": "This is a big new update from Reedroux's with the following features",
+        "date": "2022-01-10T00:00:00.000Z",
+        "formattedDate": "January 10, 2022",
+        "tags": [
+          {
+            "label": "welcome",
+            "permalink": "/blog/tags/welcome"
+          },
+          {
+            "label": "new-stuff",
+            "permalink": "/blog/tags/new-stuff"
+          }
+        ],
+        "readingTime": 1.1,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "towdawg",
+            "title": "Community and Support Associate",
+            "url": "https://reedroux.biz",
+            "imageURL": "https://twodawg.xyz/favicon.ico",
+            "key": "towdawg"
+          }
+        ],
+        "frontMatter": {
+          "title": "Welcome to Reedroux's",
+          "authors": "towdawg",
+          "tags": [
+            "welcome",
+            "new-stuff"
+          ],
+          "description": "This is a big new update from Reedroux's with the following features",
+          "hide_table_of_contents": false
+        },
+        "prevItem": {
+          "title": "Reedroux's V.2.0.0",
+          "permalink": "/blog/2022/04/18/update-version-2-0-0"
+        },
+        "nextItem": {
+          "title": "Heyy, it's me, Reedroux! 😊",
+          "permalink": "/blog/2022/01/08/reedroux"
+        }
+      },
+      "content": "import Image from '@theme/IdealImage';\n\nThis is a big new update from Reedroux's with the following features:\n\n## Features:\n- **Typescript rewrite**: Reedroux's has been rewritten in Typescript, enhancing stability and reducing API-related errors.\n- **New config parse engine**: Improved engine for parsing configurations.\n- **Fixes for all runtime bugs**: Issues from previous versions have been addressed and resolved.\n- **Faster database load**: Improved loading times for the database.\n- **Pure ESM for use with any ESM/CommonJS packages**: Utilizing Pure ESM (ECMAScript Modules) for seamless package integration.\n\n## Future Plans:\nIn future updates, expect to see the following features:\n- **Cluster (sharding) support for alive server**\n- **Sharding**\n- **Ws cluster (sharding)**\n- **Some anime commands**\n\n### Why the Change from CommonJS to ESM?\nThe transition was made because it is believed that ECMAScript Modules (ESM) are the future of JavaScript, especially when integrating with other engines.\n\n### Why the Change from Javascript to Typescript?\nTo address and minimize random API errors in production, the shift to Typescript has been made to ensure better stability and reliability.\n\n### Current Status of Reedroux's:\nUpdates for the current version will continue until 1/1/2028. After this date, support for the current version will end, and it will be archived.\n\n## TL;DR\nReedroux will continue to undergo rewrites in Typescript to improve performance and stability."
+    },
+    {
+      "id": "/2022/01/08/reedroux",
+      "metadata": {
+        "permalink": "/blog/2022/01/08/reedroux",
+        "editUrl": "https://github.com/reedroux/docs/blog/2022-01-08-reedroux.mdx",
+        "source": "@site/blog/2022-01-08-reedroux.mdx",
+        "title": "Heyy, it's me, Reedroux! 😊",
+        "description": "Heyy, welcome to the world of Reedroux, your new favorite Discord music bot!",
+        "date": "2022-01-08T00:00:00.000Z",
+        "formattedDate": "January 8, 2022",
+        "tags": [
+          {
+            "label": "new",
+            "permalink": "/blog/tags/new"
+          },
+          {
+            "label": "first",
+            "permalink": "/blog/tags/first"
+          },
+          {
+            "label": "music",
+            "permalink": "/blog/tags/music"
+          },
+          {
+            "label": "Reedroux",
+            "permalink": "/blog/tags/reedroux"
+          }
+        ],
+        "readingTime": 0.64,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "towdawg",
+            "title": "Community and Support Associate",
+            "url": "https://reedroux.biz",
+            "imageURL": "https://twodawg.xyz/favicon.ico",
+            "key": "towdawg"
+          }
+        ],
+        "frontMatter": {
+          "title": "Heyy, it's me, Reedroux! 😊",
+          "authors": "towdawg",
+          "tags": [
+            "new",
+            "first",
+            "music",
+            "Reedroux"
+          ],
+          "description": "Heyy, welcome to the world of Reedroux, your new favorite Discord music bot!",
+          "hide_table_of_contents": false
+        },
+        "prevItem": {
+          "title": "Welcome to Reedroux's",
+          "permalink": "/blog/2022/01/10/welcome-to-reedroux"
+        }
+      },
+      "content": "<!--truncate-->\n\n## Reedroux's ❤️ Asia\n\nHeyy there, welcome to the world of Reedroux! 😊\n\nToday marks a special day—the birth of Reedroux, the Discord music bot that aims to delight your ears and bring rhythm to your server!\n\nWe're thrilled to introduce you to Reedroux—your musical companion designed to bring joy through music and entertainment. Whether you're searching for your favorite tunes, creating playlists, or enjoying beats with friends, Reedroux has got you covered.\n\nReedroux now extends its reach to the heart of Asia with new music nodes! This means better performance and smoother musical experiences for all our users across Asia.\n\nJoin us in this melodic journey! Feel free to explore, play, and immerse yourself in the tunes with Reedroux. Let the music carry you away! 🎵✨"
+    }
+  ]
+}

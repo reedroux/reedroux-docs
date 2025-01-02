@@ -1,0 +1,88 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "Introduction/landing",
+          "docs": [
+            {
+              "id": "Advanced/faq",
+              "path": "/faq",
+              "sidebar": "sidebars"
+            },
+            {
+              "id": "Advanced/favorites",
+              "path": "/favorites",
+              "sidebar": "sidebars"
+            },
+            {
+              "id": "Advanced/playlists",
+              "path": "/playlists",
+              "sidebar": "sidebars"
+            },
+            {
+              "id": "Dashboard/starting_dashboard",
+              "path": "/starting-dashboard",
+              "sidebar": "sidebars"
+            },
+            {
+              "id": "Frequently Asked Questions/faqs",
+              "path": "/faqs",
+              "sidebar": "sidebars"
+            },
+            {
+              "id": "Get Support/support",
+              "path": "/get_support",
+              "sidebar": "sidebars"
+            },
+            {
+              "id": "Getting Started/adding_mewwme",
+              "path": "/adding-reedroux",
+              "sidebar": "sidebars"
+            },
+            {
+              "id": "Getting Started/commands",
+              "path": "/commands",
+              "sidebar": "sidebars"
+            },
+            {
+              "id": "Getting Started/play_song",
+              "path": "/play-song",
+              "sidebar": "sidebars"
+            },
+            {
+              "id": "Introduction/features",
+              "path": "/features",
+              "sidebar": "sidebars"
+            },
+            {
+              "id": "Introduction/landing",
+              "path": "/",
+              "sidebar": "sidebars"
+            },
+            {
+              "id": "Reedroux Premium/premium",
+              "path": "/premium",
+              "sidebar": "sidebars"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "sidebars": {
+              "link": {
+                "path": "/",
+                "label": "Introduction/landing"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

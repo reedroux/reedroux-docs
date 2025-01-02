@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/2023/07/25/update-version-3-5-0",
+  "editUrl": "https://github.com/reedroux/docs/blog/2023-07-25-update-version-3-5-0.mdx",
+  "source": "@site/blog/2023-07-25-update-version-3-5-0.mdx",
+  "title": "Reedroux's V.3.5.0",
+  "description": "Introducing Reedroux's V.3.5.0! This update brings significant improvements and optimizations for a better user experience.",
+  "date": "2023-07-25T00:00:00.000Z",
+  "formattedDate": "July 25, 2023",
+  "tags": [
+    {
+      "label": "Reedroux",
+      "permalink": "/blog/tags/reedroux"
+    },
+    {
+      "label": "update",
+      "permalink": "/blog/tags/update"
+    },
+    {
+      "label": "v.3.5.0",
+      "permalink": "/blog/tags/v-3-5-0"
+    }
+  ],
+  "readingTime": 0.985,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paul Mcli",
+      "title": "Sr. Systems Administrator",
+      "url": "https://reedroux.biz",
+      "imageURL": "https://twodawg.xyz/paul.png",
+      "key": "paulmcli"
+    }
+  ],
+  "frontMatter": {
+    "title": "Reedroux's V.3.5.0",
+    "authors": "paulmcli",
+    "tags": [
+      "Reedroux",
+      "update",
+      "v.3.5.0"
+    ],
+    "description": "Introducing Reedroux's V.3.5.0! This update brings significant improvements and optimizations for a better user experience.",
+    "hide_table_of_contents": false
+  },
+  "nextItem": {
+    "title": "Reedroux's V.3.0.0",
+    "permalink": "/blog/2022/08/07/update-version-3-0-0"
+  }
+}

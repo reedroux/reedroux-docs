@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Introduction/landing",
+  "id": "Introduction/landing",
+  "title": "Getting Started - Reedroux",
+  "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+  "source": "@site/docs/Introduction/What is Reedroux.mdx",
+  "sourceDirName": "Introduction",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "editUrl": "https://github.com/reedroux/docs/edit/main/docs/Introduction/What is Reedroux.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "landing",
+    "title": "Getting Started - Reedroux",
+    "slug": "/"
+  },
+  "sidebar": "sidebars",
+  "next": {
+    "title": "Features - Reedroux",
+    "permalink": "/features"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "unversionedId": "Advanced/playlists",
+  "id": "Advanced/playlists",
+  "title": "Custom Playlists - Reedroux",
+  "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+  "source": "@site/docs/Advanced/Playlists.mdx",
+  "sourceDirName": "Advanced",
+  "slug": "/playlists",
+  "permalink": "/playlists",
+  "draft": false,
+  "editUrl": "https://github.com/reedroux/docs/edit/main/docs/Advanced/Playlists.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "playlists",
+    "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+    "title": "Custom Playlists - Reedroux",
+    "slug": "/playlists"
+  },
+  "sidebar": "sidebars",
+  "previous": {
+    "title": "Frequently Asked Questions - Reedroux",
+    "permalink": "/faq"
+  },
+  "next": {
+    "title": "Favorites - Reedroux",
+    "permalink": "/favorites"
+  }
+}

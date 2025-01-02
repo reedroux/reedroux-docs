@@ -1,0 +1,31 @@
+{
+  "unversionedId": "Reedroux Premium/premium",
+  "id": "Reedroux Premium/premium",
+  "title": "Reedroux Premium",
+  "description": "Welcome to the Premium section! As a Premium member, you get access to exclusive features and benefits. Here's what you can enjoy:",
+  "source": "@site/docs/Reedroux Premium/premium.mdx",
+  "sourceDirName": "Reedroux Premium",
+  "slug": "/premium",
+  "permalink": "/premium",
+  "draft": false,
+  "editUrl": "https://github.com/reedroux/docs/edit/main/docs/Reedroux Premium/premium.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "premium",
+    "title": "Reedroux Premium",
+    "slug": "/premium"
+  },
+  "sidebar": "sidebars",
+  "previous": {
+    "title": "Starting Dashboard",
+    "permalink": "/starting-dashboard"
+  },
+  "next": {
+    "title": "Get Support",
+    "permalink": "/get_support"
+  }
+}

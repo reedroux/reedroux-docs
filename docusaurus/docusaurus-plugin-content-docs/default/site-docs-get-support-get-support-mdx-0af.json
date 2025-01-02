@@ -1,0 +1,31 @@
+{
+  "unversionedId": "Get Support/support",
+  "id": "Get Support/support",
+  "title": "Get Support",
+  "description": "We’re here to help! Below you’ll find all the ways to get in touch with our team for assistance with Reedroux.",
+  "source": "@site/docs/Get Support/Get Support.mdx",
+  "sourceDirName": "Get Support",
+  "slug": "/get_support",
+  "permalink": "/get_support",
+  "draft": false,
+  "editUrl": "https://github.com/reedroux/docs/edit/main/docs/Get Support/Get Support.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "support",
+    "title": "Get Support",
+    "slug": "/get_support"
+  },
+  "sidebar": "sidebars",
+  "previous": {
+    "title": "Reedroux Premium",
+    "permalink": "/premium"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/faqs"
+  }
+}

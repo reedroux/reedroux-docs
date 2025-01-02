@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Frequently Asked Questions/faqs",
+  "id": "Frequently Asked Questions/faqs",
+  "title": "Frequently Asked Questions",
+  "description": "Here are some commonly asked questions about Reedroux. If you have any further questions, don't hesitate to reach out to us!",
+  "source": "@site/docs/Frequently Asked Questions/faqs.mdx",
+  "sourceDirName": "Frequently Asked Questions",
+  "slug": "/faqs",
+  "permalink": "/faqs",
+  "draft": false,
+  "editUrl": "https://github.com/reedroux/docs/edit/main/docs/Frequently Asked Questions/faqs.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "faqs",
+    "title": "Frequently Asked Questions",
+    "slug": "/faqs"
+  },
+  "sidebar": "sidebars",
+  "previous": {
+    "title": "Get Support",
+    "permalink": "/get_support"
+  }
+}

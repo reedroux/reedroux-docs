@@ -1,0 +1,32 @@
+{
+  "unversionedId": "Advanced/faq",
+  "id": "Advanced/faq",
+  "title": "Frequently Asked Questions - Reedroux",
+  "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+  "source": "@site/docs/Advanced/FAQ.mdx",
+  "sourceDirName": "Advanced",
+  "slug": "/faq",
+  "permalink": "/faq",
+  "draft": false,
+  "editUrl": "https://github.com/reedroux/docs/edit/main/docs/Advanced/FAQ.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "faq",
+    "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+    "title": "Frequently Asked Questions - Reedroux",
+    "slug": "/faq"
+  },
+  "sidebar": "sidebars",
+  "previous": {
+    "title": "Commands",
+    "permalink": "/commands"
+  },
+  "next": {
+    "title": "Custom Playlists - Reedroux",
+    "permalink": "/playlists"
+  }
+}

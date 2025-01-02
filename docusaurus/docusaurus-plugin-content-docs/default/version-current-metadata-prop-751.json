@@ -1,0 +1,216 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "sidebars": [
+      {
+        "type": "category",
+        "label": "Introduction",
+        "items": [
+          {
+            "type": "link",
+            "label": "Getting Started - Reedroux",
+            "href": "/",
+            "docId": "Introduction/landing"
+          },
+          {
+            "type": "link",
+            "label": "Features - Reedroux",
+            "href": "/features",
+            "docId": "Introduction/features"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "items": [
+          {
+            "type": "link",
+            "label": "Adding - Reedroux",
+            "href": "/adding-reedroux",
+            "docId": "Getting Started/adding_mewwme"
+          },
+          {
+            "type": "link",
+            "label": "Playing a Song - Reedroux",
+            "href": "/play-song",
+            "docId": "Getting Started/play_song"
+          },
+          {
+            "type": "link",
+            "label": "Commands",
+            "href": "/commands",
+            "docId": "Getting Started/commands"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Advanced",
+        "items": [
+          {
+            "type": "link",
+            "label": "Frequently Asked Questions - Reedroux",
+            "href": "/faq",
+            "docId": "Advanced/faq"
+          },
+          {
+            "type": "link",
+            "label": "Custom Playlists - Reedroux",
+            "href": "/playlists",
+            "docId": "Advanced/playlists"
+          },
+          {
+            "type": "link",
+            "label": "Favorites - Reedroux",
+            "href": "/favorites",
+            "docId": "Advanced/favorites"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Dashboard",
+        "items": [
+          {
+            "type": "link",
+            "label": "Starting Dashboard",
+            "href": "/starting-dashboard",
+            "docId": "Dashboard/starting_dashboard"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Premium",
+        "items": [
+          {
+            "type": "link",
+            "label": "Reedroux Premium",
+            "href": "/premium",
+            "docId": "Reedroux Premium/premium"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Get Support",
+        "items": [
+          {
+            "type": "link",
+            "label": "Get Support",
+            "href": "/get_support",
+            "docId": "Get Support/support"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Frequently Asked Questions",
+        "items": [
+          {
+            "type": "link",
+            "label": "Frequently Asked Questions",
+            "href": "/faqs",
+            "docId": "Frequently Asked Questions/faqs"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "Advanced/faq": {
+      "id": "Advanced/faq",
+      "title": "Frequently Asked Questions - Reedroux",
+      "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+      "sidebar": "sidebars"
+    },
+    "Advanced/favorites": {
+      "id": "Advanced/favorites",
+      "title": "Favorites - Reedroux",
+      "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+      "sidebar": "sidebars"
+    },
+    "Advanced/playlists": {
+      "id": "Advanced/playlists",
+      "title": "Custom Playlists - Reedroux",
+      "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+      "sidebar": "sidebars"
+    },
+    "Dashboard/starting_dashboard": {
+      "id": "Dashboard/starting_dashboard",
+      "title": "Starting Dashboard",
+      "description": "Getting started with Reedroux's superior dashboard!",
+      "sidebar": "sidebars"
+    },
+    "Frequently Asked Questions/faqs": {
+      "id": "Frequently Asked Questions/faqs",
+      "title": "Frequently Asked Questions",
+      "description": "Here are some commonly asked questions about Reedroux. If you have any further questions, don't hesitate to reach out to us!",
+      "sidebar": "sidebars"
+    },
+    "Get Support/support": {
+      "id": "Get Support/support",
+      "title": "Get Support",
+      "description": "We’re here to help! Below you’ll find all the ways to get in touch with our team for assistance with Reedroux.",
+      "sidebar": "sidebars"
+    },
+    "Getting Started/adding_mewwme": {
+      "id": "Getting Started/adding_mewwme",
+      "title": "Adding - Reedroux",
+      "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+      "sidebar": "sidebars"
+    },
+    "Getting Started/commands": {
+      "id": "Getting Started/commands",
+      "title": "Commands",
+      "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+      "sidebar": "sidebars"
+    },
+    "Getting Started/play_song": {
+      "id": "Getting Started/play_song",
+      "title": "Playing a Song - Reedroux",
+      "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+      "sidebar": "sidebars"
+    },
+    "Introduction/features": {
+      "id": "Introduction/features",
+      "title": "Features - Reedroux",
+      "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+      "sidebar": "sidebars"
+    },
+    "Introduction/landing": {
+      "id": "Introduction/landing",
+      "title": "Getting Started - Reedroux",
+      "description": "Welcome to Reedroux Docs, home to everything you want to know about Reedroux. You will be able to find out almost everything about Reedroux here.",
+      "sidebar": "sidebars"
+    },
+    "Reedroux Premium/premium": {
+      "id": "Reedroux Premium/premium",
+      "title": "Reedroux Premium",
+      "description": "Welcome to the Premium section! As a Premium member, you get access to exclusive features and benefits. Here's what you can enjoy:",
+      "sidebar": "sidebars"
+    }
+  }
+}

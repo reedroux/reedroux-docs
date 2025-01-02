@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/2022/01/10/welcome-to-reedroux",
+  "editUrl": "https://github.com/reedroux/docs/blog/2022-01-10-welcome-to-reedroux.mdx",
+  "source": "@site/blog/2022-01-10-welcome-to-reedroux.mdx",
+  "title": "Welcome to Reedroux's",
+  "description": "This is a big new update from Reedroux's with the following features",
+  "date": "2022-01-10T00:00:00.000Z",
+  "formattedDate": "January 10, 2022",
+  "tags": [
+    {
+      "label": "welcome",
+      "permalink": "/blog/tags/welcome"
+    },
+    {
+      "label": "new-stuff",
+      "permalink": "/blog/tags/new-stuff"
+    }
+  ],
+  "readingTime": 1.1,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "towdawg",
+      "title": "Community and Support Associate",
+      "url": "https://reedroux.biz",
+      "imageURL": "https://twodawg.xyz/favicon.ico",
+      "key": "towdawg"
+    }
+  ],
+  "frontMatter": {
+    "title": "Welcome to Reedroux's",
+    "authors": "towdawg",
+    "tags": [
+      "welcome",
+      "new-stuff"
+    ],
+    "description": "This is a big new update from Reedroux's with the following features",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "Reedroux's V.2.0.0",
+    "permalink": "/blog/2022/04/18/update-version-2-0-0"
+  },
+  "nextItem": {
+    "title": "Heyy, it's me, Reedroux! 😊",
+    "permalink": "/blog/2022/01/08/reedroux"
+  }
+}

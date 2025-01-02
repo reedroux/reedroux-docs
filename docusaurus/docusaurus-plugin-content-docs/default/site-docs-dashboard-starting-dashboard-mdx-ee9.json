@@ -1,0 +1,32 @@
+{
+  "unversionedId": "Dashboard/starting_dashboard",
+  "id": "Dashboard/starting_dashboard",
+  "title": "Starting Dashboard",
+  "description": "Getting started with Reedroux's superior dashboard!",
+  "source": "@site/docs/Dashboard/Starting Dashboard.mdx",
+  "sourceDirName": "Dashboard",
+  "slug": "/starting-dashboard",
+  "permalink": "/starting-dashboard",
+  "draft": false,
+  "editUrl": "https://github.com/reedroux/docs/edit/main/docs/Dashboard/Starting Dashboard.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "starting_dashboard",
+    "description": "Getting started with Reedroux's superior dashboard!",
+    "title": "Starting Dashboard",
+    "slug": "/starting-dashboard"
+  },
+  "sidebar": "sidebars",
+  "previous": {
+    "title": "Favorites - Reedroux",
+    "permalink": "/favorites"
+  },
+  "next": {
+    "title": "Reedroux Premium",
+    "permalink": "/premium"
+  }
+}
